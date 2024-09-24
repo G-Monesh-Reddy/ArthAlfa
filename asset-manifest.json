@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArthAlfa/static/css/main.fe516bf6.css",
+    "main.js": "/ArthAlfa/static/js/main.817c0d32.js",
+    "static/js/453.d1ead18a.chunk.js": "/ArthAlfa/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/ArthAlfa/index.html",
+    "main.fe516bf6.css.map": "/ArthAlfa/static/css/main.fe516bf6.css.map",
+    "main.817c0d32.js.map": "/ArthAlfa/static/js/main.817c0d32.js.map",
+    "453.d1ead18a.chunk.js.map": "/ArthAlfa/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe516bf6.css",
+    "static/js/main.817c0d32.js"
+  ]
+}
